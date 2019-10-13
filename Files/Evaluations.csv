@@ -1,0 +1,62 @@
+Course Code,Assignment Name,Assignment Type,K/U,APP,T/I,COMM,Weight
+ICS3U1-01,Algorithms,Quiz,12,15,10,8,5
+ICS3U1-01,Variables,Quiz,14,14,8,7,5
+ICS3U1-01,Branching,Quiz,15,13,7,6,5
+ICS3U1-01,Loops,Quiz,14,15,8,8,5
+ICS3U1-01,Mid-Term Test,Test,32,28,14,10,10
+ICS3U1-01,Ted Talk,Presentation,20,20,10,20,10
+ICS3U1-01,Encryption,Assignment,20,30,20,15,10
+ICS3U1-01,Game Design,Culminating,50,50,30,30,25
+ICS3U1-02,Algorithms,Quiz,12,15,10,8,5
+ICS3U1-02,Variables,Quiz,14,14,8,7,5
+ICS3U1-02,Branching,Quiz,15,13,7,6,5
+ICS3U1-02,Loops,Quiz,14,15,8,8,5
+ICS3U1-02,Mid-Term Test,Test,32,28,14,10,10
+ICS3U1-02,Ted Talk,Presentation,20,20,10,20,10
+ICS3U1-02,Encryption,Assignment,20,30,20,15,10
+ICS3U1-02,Game Design,Culminating,50,50,30,30,25
+MCR3U1-01,Review,Quiz,10,10,5,5,5
+MCR3U1-01,Quadratics,Quiz,10,10,7,5,5
+MCR3U1-01,Max/Min Word Problems,Quiz,10,10,8,6,5
+MCR3U1-01,Functions Intro,Quiz,10,10,6,5,5
+MCR3U1-01,Function Transformations,Quiz,10,10,5,5,5
+MCR3U1-01,Mid-Term,Unit Test,30,24,18,15,10
+MCR3U1-01,Trigonometric Ratios,Quiz,10,10,6,5,5
+MCR3U1-01,Trigonometric Functions,Quiz,10,10,5,5,5
+MCR3U1-01,Exponential Functions,Quiz,10,10,15,5,5
+MCR3U1-01,Sequences and Series,Quiz,10,10,6,5,5
+MCR3U1-01,Financial Applications,Quiz,10,10,5,5,5
+MCR3U1-01,Unit Test,Test,34,28,20,15,10
+MCR3U1-04,Review,Quiz,10,10,5,5,5
+MCR3U1-04,Quadratics,Quiz,10,10,7,5,5
+MCR3U1-04,Max/Min Word Problems,Quiz,10,10,8,6,5
+MCR3U1-04,Functions Intro,Quiz,10,10,6,5,5
+MCR3U1-04,Function Transformations,Quiz,10,10,5,5,5
+MCR3U1-04,Mid-Term,Unit Test,30,24,18,15,10
+MCR3U1-04,Trigonometric Ratios,Quiz,10,10,6,5,5
+MCR3U1-04,Trigonometric Functions,Quiz,10,10,5,5,5
+MCR3U1-04,Exponential Functions,Quiz,10,10,15,5,5
+MCR3U1-04,Sequences and Series,Quiz,10,10,6,5,5
+MCR3U1-04,Financial Applications,Quiz,10,10,5,5,5
+MCR3U1-04,Unit Test,Test,34,28,20,15,10
+SNC1D1-04,QuizName,Quiz,5,10,5,10,20
+SNC1D1-04,TestName,Text,10,15,10,5,5
+SNC1D1-04,ProjectName,Presentation,5,15,10,10,10
+SNC1D1-04,ReviewName,Quiz,5,10,25,30,10
+SNC1D1-04,UnitTestName,Unit Test,30,20,50,15,20
+SNC1D1-03,QuizName,Quiz,5,10,5,10,20
+SNC1D1-03,TestName,Text,10,15,10,5,5
+SNC1D1-03,ProjectName,Presentation,5,15,10,10,10
+SNC1D1-03,ReviewName,Quiz,5,10,25,30,10
+SNC1D1-03,UnitTestName,Unit Test,30,20,50,15,20
+ENG1D1-03,Great Gatsby,Quiz,10,10,15,15,5
+ENG1D1-03,Shakespeare,Text,15,5,5,13,5
+ENG1D1-03,Unit Test,Presentation,10,10,20,15,10
+ENG1D1-03,Unit Presentation,Quiz,5,10,35,10,10
+ENG1D1-03,OutOfNames,Unit Test,20,50,40,30,40
+CGC1D1-02,QuizName,Quiz,5,10,20,10,20
+CGC1D1-02,TestName,Text,20,15,10,5,5
+CGC1D1-02,ProjectName,Presentation,5,15,10,10,10
+CGC1D1-02,ReviewName,Quiz,20,10,25,20,5
+CGC1D1-02,UnitTestName,Unit Test,30,20,50,15,20
+PLF4M1-01,Participation,Unit Test,5,5,5,5,5
